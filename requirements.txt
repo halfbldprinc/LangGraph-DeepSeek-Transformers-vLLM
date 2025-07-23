@@ -1,0 +1,5 @@
+torch>=2.0.0
+transformers>=4.30.0
+langgraph>=0.0.40
+huggingface-hub>=0.16.0
+tokenizers>=0.13.0
