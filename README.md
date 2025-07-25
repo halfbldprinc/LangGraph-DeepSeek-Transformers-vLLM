@@ -38,6 +38,14 @@ You have to download the DeepSeek Coder 1.3B model from Hugging Face and change 
 **Note:** The default path to model is`~/.cache/huggingface/hub/` directory (approximately 2.6GB).
 
 ### 5. Run the Application
+ 
+vLLM wrapper implmentation 
+
+```bash
+python vLLM.py
+```
+
+the classic implmentation
 
 ```bash
 python main.py
