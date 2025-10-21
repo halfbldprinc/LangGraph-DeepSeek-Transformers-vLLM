@@ -1,0 +1,8 @@
+[project]
+name = "samplelanggraph-deepseek"
+version = "0.1.0"
+description = "Small wrapper and examples for DeepSeek LLM"
+requires-python = ">=3.10"
+
+[tool.poetry]
+# Optional: If user uses poetry, they can populate this file further
