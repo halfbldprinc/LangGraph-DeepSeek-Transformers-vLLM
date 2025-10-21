@@ -4,8 +4,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/halfbldprinc/SampleLangGraph-DeepSeek-.git
-cd SampleLangGraph-DeepSeek-
+git clone https://github.com/halfbldprinc/LangGraph-DeepSeek-Transformers-vLLM.git
+cd LangGraph-DeepSeek-Transformers-vLLM
 ```
 
 ### 2. Create Virtual Environment
